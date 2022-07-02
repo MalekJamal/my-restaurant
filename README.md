@@ -34,7 +34,7 @@
 2. **Zarb.**
 ![](https://photos.smugmug.com/Jordan-Travel-Guide/i-bxQkFmZ/0/X3/zarb-X3.jpg)
 
-3. Kofta Bi Tahini.
+3. **Kofta Bi Tahini.**
 ![](https://photos.smugmug.com/Jordan-Travel-Guide/i-2vDqTG4/0/X3/kafta-tahini-X3.jpg)
 4. **Fattet hummus.**
 ![](https://evaeatsblog.files.wordpress.com/2016/06/img_7809_2.jpg)
@@ -73,7 +73,10 @@
 ***
 ***
 ***
-***
+>## Add the wireframe image 👇👇
+
+![wireframe](/assest/wireframe.png)
+
 ### *Previous Menu 👉👉 [pre-menu](https://github.com/MalekJamal/my-restaurant)* 
 
 
