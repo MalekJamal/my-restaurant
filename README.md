@@ -76,13 +76,6 @@
 >## Add the wireframe image 👇👇
 
 ![wireframe](/assest/wireframe.png)
+> ## It will be update for the wireframe for all the sections.
 
 ### *Previous Menu 👉👉 [pre-menu](https://github.com/MalekJamal/my-restaurant)* 
-
-
-
-
-
-
-
-
